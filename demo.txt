@@ -1,2 +1,6 @@
 this is demo file
+<<<<<<< HEAD
 changing in 2
+=======
+change in 1
+>>>>>>> febff3ba0f2e8cf7e93cc602399629090b91307f
